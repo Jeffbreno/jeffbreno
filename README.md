@@ -7,7 +7,7 @@
 ### 🛠️ **Habilidades Técnicas**
 - **Versionamento:** Git, GitHub, GitLab
 - **Linguagens de Programação:** JavaScript, Python, PHP
-- **Frameworks e Bibliotecas:** Vue.js, Django, Laravel
+- **Frameworks e Bibliotecas:** Vue.js, Django, Laravel, NextJS
 - **Frontend:** HTML5, CSS3, Bootstrap
 
 ---
